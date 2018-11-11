@@ -18,6 +18,7 @@ dependencies:
 
   kemal:
     github: kemalcr/kemal
+    branch: master
 
   kemal-csrf:
     github: kemalcr/kemal-csrf
